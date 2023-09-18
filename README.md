@@ -11,3 +11,13 @@
 https://github.com/ByronHsu/FEGAN
 https://github.com/uof1745-cmd/PCN
 https://github.com/alexvbogdan/DeepCalib
+
+repo for albumentations
+https://github.com/EslamAsfour/Augmentation-using-Albumentations/blob/main/README.md
+
+
+Datumaro:
+https://openvinotoolkit.github.io/datumaro/latest/docs/get-started/quick-start-guide/examples.html
+
+albumentations weather
+https://colab.research.google.com/github/albumentations-team/albumentations_examples/blob/colab/example_weather_transforms.ipynb#scrollTo=3J6MeU2T5kwP&uniqifier=1
