@@ -2,8 +2,13 @@
 Хакатон URBANCODE от компании Самолет
 
 1. Для перевода аннотаций в YOLO формат использовался репозиторий coco2yolo (https://github.com/tw-yshuang/coco2yolo.git)
-2. Разметка данных CVAT 223 изображения
-3. Почистили датасет от фотографий где есть обшивка\утеплитель
+2. Почистили датасет от фотографий где есть обшивка\утеплитель
+3. Разметка данных CVAT 149 изображения (6k class objects)
+4. Аугментация данных albumentations. (https://github.com/EslamAsfour/Augmentation-using-Albumentations)
+5. Remapping dataset - Datumaro. Смена классов.
+6. Проверка Dataset в roboflow.
+7. Запуск обучения YOLOv8n и YOLOv8m.
+
 
 Заметки:
 сети для Fish Eye Rectification
