@@ -7,7 +7,8 @@
 4. Аугментация данных albumentations. (https://github.com/EslamAsfour/Augmentation-using-Albumentations)
 5. Remapping dataset - Datumaro. Смена классов.
 6. Проверка Dataset в roboflow.
-7. Запуск обучения YOLOv8n и YOLOv8m.
+7. Запуск обучения YOLOv8n и YOLOv8m на 100 эпох.
+   
 
 
 Заметки:
