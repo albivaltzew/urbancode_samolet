@@ -29,3 +29,6 @@ https://colab.research.google.com/github/albumentations-team/albumentations_exam
 
 Используемые метрики Pascal VOC
 https://github.com/rafaelpadilla/Object-Detection-Metrics
+
+Репо по метрикам от тех же чуваков
+https://github.com/rafaelpadilla/review_object_detection_metrics
