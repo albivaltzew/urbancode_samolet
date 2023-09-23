@@ -8,6 +8,7 @@
 5. Remapping dataset - Datumaro. Смена классов.
 6. Проверка Dataset в roboflow.
 7. Запуск обучения YOLOv8n и YOLOv8m на 100 эпох.
+8. TTA YOLO score +5%/
    
 
 
