@@ -15,7 +15,7 @@
 Auto-rectification имплементирована в последнем решении
 https://github.com/chsasank/Image-Rectification
 
-Заметки:
+ССылки:
 сети для Fish Eye Rectification
 Ревью:
 1. https://github.com/bchao1/awesome-image-rectification
