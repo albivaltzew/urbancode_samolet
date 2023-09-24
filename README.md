@@ -10,12 +10,16 @@
 7. Запуск обучения YOLOv8n и YOLOv8m на 100 эпох.
 8. TTA YOLO score +5%/
    
+   
+
+
 
 
 Заметки:
 сети для Fish Eye Rectification
 Ревью:
 1. https://github.com/bchao1/awesome-image-rectification
+2. https://github.com/xiaoyu258/GeoProj - не работает
 
 https://github.com/ByronHsu/FEGAN
 https://github.com/uof1745-cmd/PCN
