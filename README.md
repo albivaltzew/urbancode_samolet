@@ -12,8 +12,8 @@
    
    
 
-
-
+Auto rectification
+https://github.com/chsasank/Image-Rectification
 
 Заметки:
 сети для Fish Eye Rectification
