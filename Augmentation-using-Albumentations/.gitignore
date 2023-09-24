@@ -1,0 +1,5 @@
+*.json
+img/
+.vscode
+*.pyc
+Out_img/
