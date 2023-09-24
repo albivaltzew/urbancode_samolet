@@ -19,26 +19,33 @@
 Сcылки:
 
 Fish Eye Rectification:
+
 Auto-rectification имплементирована в последнем решении:
 https://github.com/chsasank/Image-Rectification
 
 Ревью по избавлению от Дисторсии:
+
 https://github.com/bchao1/awesome-image-rectification
 
 DL methods: 
+
 https://github.com/xiaoyu258/GeoProj - не работает (не обучена??)
 https://github.com/ByronHsu/FEGAN
 https://github.com/uof1745-cmd/PCN
 https://github.com/alexvbogdan/DeepCalib
 
 Аlbumentations:
+
 https://github.com/EslamAsfour/Augmentation-using-Albumentations/blob/main/README.md
 
 Datumaro:
+
 https://openvinotoolkit.github.io/datumaro/latest/docs/get-started/quick-start-guide/examples.html
 
-Аlbumentations погода
+Аlbumentations погода:
+
 https://colab.research.google.com/github/albumentations-team/albumentations_examples/blob/colab/example_weather_transforms.ipynb#scrollTo=3J6MeU2T5kwP&uniqifier=1
 
 Используемые метрики Pascal VOC
+
 https://github.com/rafaelpadilla/Object-Detection-Metrics
