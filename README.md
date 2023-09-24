@@ -19,7 +19,7 @@
 сети для Fish Eye Rectification
 Ревью:
 1. https://github.com/bchao1/awesome-image-rectification
-2. https://github.com/xiaoyu258/GeoProj - не работает
+2. https://github.com/xiaoyu258/GeoProj - не работает (не обучена??)
 
 https://github.com/ByronHsu/FEGAN
 https://github.com/uof1745-cmd/PCN
